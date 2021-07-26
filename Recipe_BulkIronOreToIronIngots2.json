@@ -1,0 +1,16 @@
+/Game/FactoryGame/Recipes/RawResources/Recipe_OreIron.Recipe_OreIron_C
+{
+    "Name": "Iron Ingot Override,
+    "Ingredients": [
+        {
+            "Item": "Iron Ore",
+            "Amount": 50
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Iron Ingot",
+            "Amount": 50
+        }
+    ]
+}

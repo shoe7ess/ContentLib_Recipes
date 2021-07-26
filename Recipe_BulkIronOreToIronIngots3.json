@@ -1,0 +1,16 @@
+/Game/FactoryGame/Resource/Parts/IronIngot/Desc_IronIngot.Desc_IronIngot_C
+{
+    "Name": "Iron Ingot Override,
+    "Ingredients": [
+        {
+            "Item": "Iron Ore",
+            "Amount": 50
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Iron Ingot",
+            "Amount": 50
+        }
+    ]
+}
