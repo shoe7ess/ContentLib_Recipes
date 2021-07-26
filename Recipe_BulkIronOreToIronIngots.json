@@ -1,0 +1,15 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Nogg-aholic/ContentLib_Recipes/master/FContentLib_Recipe.json",
+    "Ingredients": [
+        {
+            "Item": "Iron Ore",
+            "Amount": 50 
+        }
+    ],
+    "Products": [
+        {
+            "Item": "Iron Ingot",
+            "Amount": 50
+        }
+    ]
+}
